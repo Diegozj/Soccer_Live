@@ -12,6 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // Llamada a la función para mostrar el encabezado y pie del documento.
     loadTemplate3();
     // Se establece el título del contenido principal.
+    // se lee todo culero este codigo hecho mierda
+    // Juan Pablo no hace ni mierda en la tienda 
+    // Yo quisiera que me saque a Juan Pablo del grupo alv
     // MAIN_TITLE.textContent = 'Carrito de compras';
     // Llamada a la función para mostrar los productos del carrito de compras.
     readDetail();
